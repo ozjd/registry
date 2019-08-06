@@ -127,7 +127,7 @@
     "url": "https://raw.githubusercontent.com/zekth/deno_easypath/${b}/",
     "repo": "https://github.com/zekth/deno_easypath"
   },
-  "endianess" {
+  "endianess": {
     "url": "https://raw.github.com/denolibs/endianness/${b}/",
     "repo": "https://github.com/denolibs/endianness"
   },
